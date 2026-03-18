@@ -55,6 +55,7 @@
   - 통계적 유의성 검정 (Chi-square test)
 
 ## Project Structure
+```plaintext
 .
 ├── sql/
 │   ├── 01_preprocessing.sql
@@ -65,7 +66,7 @@
 ├── Result/
 │   └── onepaper_portfolio.png
 └── README.md
-
+```
 ![온라인구독서비스-원페이퍼-003](https://github.com/user-attachments/assets/f8c2f6ce-5259-414a-8689-0e72182b0561)
 
 
